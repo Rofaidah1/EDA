@@ -63,21 +63,7 @@ The dataset contains information about used car sales, including:
 - API Integration
 - Working with Real-World Datasets
 
-## How to Run the Project
 
-1. Clone this repository:
-   ```bash
-   git clone YOUR_REPOSITORY_LINK
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy requests jupyter
-   ```
-
-3. Make sure the dataset file `car_prices.csv` is in the appropriate directory.
-
-4. Open the Jupyter Notebook and run the cells.
 
 ## Author
 **Rofaidah Alshamy**
